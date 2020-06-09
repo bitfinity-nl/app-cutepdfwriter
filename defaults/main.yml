@@ -26,7 +26,7 @@
 #
 pkg_repository_type    : 'private'
 pkg_repository_public  : ''
-pkg_repository_private : 'http://{{ def_ans_rep }}/resources/packages/epsviewer/epsviewersetup.zip'
+pkg_repository_private : 'http://{{ def_ans_rep }}/resources/packages/cutepdfwriter/cutepdfwriter.zip'
 
 
 # -- Applications settings --
